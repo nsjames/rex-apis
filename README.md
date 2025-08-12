@@ -50,10 +50,6 @@ const result = await contract.readonly('getrewards', {
 });
 ```
 
-### Using Unicove's API Wrapper
-
-https://unicove.com/vaulta/contract/userexapisv1/actions/getrewards/008064002b691e9e01?readonly=false&triggerOnPageLoad=false
-
 ## Using this contract
 
 ## Building
