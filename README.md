@@ -50,8 +50,6 @@ const result = await contract.readonly('getrewards', {
 });
 ```
 
-## Using this contract
-
 ## Building
 
 ### Using Bolt
